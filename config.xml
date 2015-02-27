@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>Arabment</name>
+
+<description>
+Arabment App 
+</description>
+
+<author href="https://example.com" email="you@example.com">
+Arabment.com
+</author>
+<icon src="icon.png" />
+<gap:splash src="splash.png" />
+<preference name="phonegap-version" value="3.3.0" />
+</widget>
